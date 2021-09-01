@@ -14,5 +14,4 @@ http://jira.com.br/12345
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
-- [ ] Any dependent changes have been merged and published in downstream modules
 
